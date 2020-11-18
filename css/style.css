@@ -1,8 +1,21 @@
 h1 {
-    color: orangered;
-    font-size: 3em;
+  color: orangered;
+  font-size: 3em;
 }
 
 p {
-    color: blue;
+  color: blue;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: green;
+  color: white;
+  text-align: center;
+}
+.title-footer {
+  color: red;
+  font-size: xx-large;
 }
