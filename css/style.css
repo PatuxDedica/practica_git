@@ -6,3 +6,14 @@ h1 {
 p {
     color: blue;
 }
+
+.header {
+    height: 200px;
+    background-color: burlywood;
+    text-align: center;
+}
+
+.menu {
+    text-decoration: none;
+    color: black;
+}
