@@ -11,6 +11,16 @@ p {
     color: blue;
 }
 
+.header {
+    height: 30%;
+    background-color: burlywood;
+    text-align: center;
+}
+
+.menu {
+    text-decoration: none;
+    color: black;
+}
 section
 {
     background-color: rgb(105, 101, 101);
@@ -20,10 +30,10 @@ section
     height: 80vh;
     background-color: #fff;
     display: flex;
+    justify-content: space-between;
 }
 .sons
-{
-    justify-content: space-between;
+{  
     height: 20rem;
 }
 h3
